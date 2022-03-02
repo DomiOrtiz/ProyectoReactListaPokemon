@@ -1,0 +1,23 @@
+.Title {
+  box-sizing: border-box;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  margin-bottom: 0em;
+  background-color: rgb(11, 73, 88);
+  color: #fff;
+}
+
+.Search {
+  box-sizing: border-box;
+  width: 50%;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  padding: 1em;
+  margin-bottom: 0em;
+  background-color: rgb(129, 197, 214);
+  color: rgb(10, 10, 10);
+}
